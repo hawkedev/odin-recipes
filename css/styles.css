@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(203, 241, 181);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif; font-weight: bold; text-align: center;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    line-height: 2;
+}
+
+.trial {
+    background-color: yellow;
+}
